@@ -8,6 +8,8 @@ non_used_words = {
     'при',
     'Алиса',
     'алиса',
+    'меня',
+    'мне',
     }
     
 diseases = {
@@ -140,9 +142,21 @@ diseases = {
     'кровотечения': 'diseases/bleeding.txt',
     'кровотечению': 'diseases/bleeding.txt',
     'тошнота': 'diseases/diseases/nausea.txt',
+    'тошнит': 'diseases/diseases/nausea.txt',
+    'ташнит': 'diseases/diseases/nausea.txt',
+    'блевать': 'diseases/diseases/nausea.txt',
+    'блюю': 'diseases/diseases/nausea.txt',
+    'рвота': 'diseases/diseases/nausea.txt',
+    'рвет': 'diseases/diseases/nausea.txt',
     'помощь': 'services/help.txt',
     'умеешь': 'services/what_you_can_do.txt',
     'можешь': 'services/what_you_can_do.txt',
     'спасибо': 'services/thanks.txt',
     'благодарю': 'services/thanks.txt',
+    'привет': 'services/hi.txt',
+    'доброе утро': 'services/hi.txt',
+    'добрый день': 'services/hi.txt',
+    'добрый вечер': 'services/hi.txt',
+    'здравствуй': 'services/hi.txt',
+    'здравствуйте': 'services/hi.txt',
     }
